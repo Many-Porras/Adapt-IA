@@ -1,0 +1,20 @@
+.weare-section{
+	padding-top: 10rem;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+ 
+.row{
+	display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;	
+}
+
+
