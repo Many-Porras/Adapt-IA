@@ -27,4 +27,10 @@
     .search-form {
       width: 90%;
     }
+    .row{
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: 0;
+      margin-left: 0;	
+    }
    

@@ -37,7 +37,7 @@ mat-sidenav{
   left: 0;
   background: rgba(76, 175, 80, 0.3) ;
   padding-top: 60px;
-
+  overflow-x: hidden;
 }
 .icono{
   margin-right: 10px;

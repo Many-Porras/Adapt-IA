@@ -1,7 +1,5 @@
 .services-section {
-	background-image: url('src/assets/img/service/logoService.png');
-	background-repeat: no-repeat;
-	background-size: cover;
+
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -36,4 +34,11 @@ cursor: pointer;
   
   .card:hover  {
 	background-color: rgba(0, 250, 193);
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0;
+    margin-left: 0;	
+    width: 100%;
   }
